@@ -1,3 +1,1 @@
-Internet privacy enthusiast, current computer science major, and occasional game developer.
-
-Also a musician.
+It seems you've had the misfortune of stumbling upon my GitHub profile, sorry about that.
