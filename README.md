@@ -1,16 +1,18 @@
-### Hi there 👋
+![arpringle Banner](./gh_banner.png)
 
-<!--
-**arpringle/arpringle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello!
 
-Here are some ideas to get you started:
+My name is _Austin Pringle_. (Yes, like the potato chips. No relation. 😆)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I attend Pennsylvania Western Universty, California, formerly known as California University of Pennsylvania. I'm pursuing a Bachelor of Science degree in Computer Information Systems, with minor in Computer Science.
+
+## Some Things About Me
+
+🛠️ I love tinkering around by self-hosting web services and writing small applications.
+
+🐧 I live and breathe free-and-open-source software.
+
+👣 I contribute to the [GNOME](https://en.wikipedia.org/wiki/GNOME) software ecosystem. [See my contributions and projects here.](https://gitlab.gnome.org/arpringle)
+
+## Programming Languages
+[![My Languages](https://skillicons.dev/icons?i=python,rust,c,cpp,html,css,js)](https://skillicons.dev)
