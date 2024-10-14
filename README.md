@@ -1,5 +1,3 @@
-![arpringle Banner](https://austinpringle.com/wp-content/uploads/2024/04/gh_banner.png)
-
 ### Hello!
 
 My name is _Austin Pringle_. (Yes, like the potato chips. No relation. 😆)
