@@ -13,4 +13,4 @@ I attend Pennsylvania Western Universty, California and I'm pursuing a Bachelor 
 👣 I contribute to the [GNOME](https://en.wikipedia.org/wiki/GNOME) software ecosystem. [See my contributions and projects here.](https://gitlab.gnome.org/arpringle)
 
 ## Technologies & Programming Languages 
-[![My Languages](https://skillicons.dev/icons?i=bash,c,cpp,git,github,gitlab,gtk,js,linux,python,php,sql,rust)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=bash,c,cpp,git,github,gitlab,gtk,js,linux,python,php,mysql,rust)](https://skillicons.dev)
