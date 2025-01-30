@@ -1,12 +1,14 @@
-### Hello!
+### Hello! 👋
 
-My name is **Austin Pringle**. (Yes, _Pringle_, like the popular potato chips! Before you ask, I'm not related, haha!)
+My name is **Austin Pringle** (yes, _Pringle_, like the popular potato chips! No, I'm not related—just a fun coincidence! 😄). 
 
-I attend Pennsylvania Western Universty, California and I'm pursuing a Bachelor of Science degree in Computer Information Systems, with minor in Computer Science. I love tinkering around by self-hosting various applications, and also writing small applications myself.
+I’m currently pursuing a **Bachelor of Science Degree in Computer Information Systems**, with a minor in **Computer Science** at **Pennsylvania Western University, California**. I enjoy tinkering with self-hosted applications and building small projects on my own.
 
-I have experience in the software development side of tech, via my CS minor and my research/contributions into open-source projects. I also have experience on the software-deployment side of tech via my CIS major and my personal experience deploying certian apps.
+I have hands-on experience in software development, thanks to my CS minor and contributions to open-source projects. On the other side, my CIS major has helped me gain solid experience in software deployment, including managing and deploying applications in personal projects.
 
-To see some examples of my projects, you can visit my personal portfolio website over at [https://austinpringle.com]!
+Want to see what I’ve been working on? Check out my portfolio: [https://austinpringle.com](https://austinpringle.com)
 
-## Technologies & Programming Languages 
-[![My Languages](https://skillicons.dev/icons?i=bash,c,cpp,git,github,gitlab,gtk,js,linux,mysql,python,php,rust)](https://skillicons.dev)
+## Technologies & Tools I Work With
+
+![My Languages](https://skillicons.dev/icons?i=bash,c,cpp,git,github,gitlab,gtk,js,linux,mysql,python,php,rust)
+
