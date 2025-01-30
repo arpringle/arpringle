@@ -1,8 +1,8 @@
 ### Hello!
 
-My name is _Austin Pringle_. (Yes, like the potato chips. No relation. 😆)
+My name is **Austin Pringle**. (Yes, _Pringle_, like the popular potato chips!)
 
-I attend Pennsylvania Western Universty, California, formerly known as California University of Pennsylvania. I'm pursuing a Bachelor of Science degree in Computer Information Systems, with minor in Computer Science.
+I attend Pennsylvania Western Universty, California and I'm pursuing a Bachelor of Science degree in Computer Information Systems, with minor in Computer Science.
 
 ## Some Things About Me
 
@@ -12,5 +12,5 @@ I attend Pennsylvania Western Universty, California, formerly known as Californi
 
 👣 I contribute to the [GNOME](https://en.wikipedia.org/wiki/GNOME) software ecosystem. [See my contributions and projects here.](https://gitlab.gnome.org/arpringle)
 
-## Programming Languages
-[![My Languages](https://skillicons.dev/icons?i=python,rust,c,cpp,html,css,js)](https://skillicons.dev)
+## Technologies & Programming Languages 
+[![My Languages](https://skillicons.dev/icons?i=bash,c,cpp,git,github,gitlab,gtk,js,linux,python,php,sql,rust)](https://skillicons.dev)
