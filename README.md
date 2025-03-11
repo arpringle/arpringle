@@ -9,6 +9,5 @@ I enjoy building efficient and automated systems that make life better for the p
 Want to see what I’ve been working on? Check out my portfolio: [https://austinpringle.com](https://austinpringle.com)
 
 ## Technologies & Tools I Work With
-(In no particular order)
 
 ![My Languages](https://skillicons.dev/icons?i=bash,c,cpp,git,github,gitlab,gtk,js,linux,mysql,python,php,rust)
