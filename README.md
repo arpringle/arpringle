@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is **Austin Pringle** (yes, _Pringle_, like the potato chips! No relation.). 
+My name is **Austin Pringle** (yes, _Pringle_, like the potato chips! No relation). 
 
 I’m currently pursuing a Bachelor of Science Degree in **Computer Information Systems**, with a minor in **Computer Science** at Pennsylvania Western University, California. I enjoy tinkering with self-hosted applications and building small projects on my own.
 
