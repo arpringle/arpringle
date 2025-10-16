@@ -10,4 +10,4 @@ Want to see what I’ve been working on? Check out my portfolio: [https://austin
 
 ## Technologies & Tools I Work With
 
-![My Languages](https://skillicons.dev/icons?i=bash,c,cpp,git,github,gitlab,gtk,js,linux,mysql,python,php,rust)
+![My Languages](https://skillicons.dev/icons?i=bash,c,cpp,git,github,gitlab,gtk,java,js,linux,mysql,python,php,rust)
