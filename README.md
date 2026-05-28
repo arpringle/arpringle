@@ -8,6 +8,8 @@ I enjoy building efficient and automated systems that make life better for the p
 
 Want to see what I’ve been working on? Check out my portfolio: [https://austinpringle.com](https://austinpringle.com)
 
+I'm also working on a large-scale multi-codebase project that isn't ready to go public yet, but I'd love to talk about it with you!
+
 ## Technologies & Tools I Work With
 
 ![My Languages](https://skillicons.dev/icons?i=bash,c,cpp,git,github,gitlab,gtk,java,js,linux,mysql,python,php,rust)
